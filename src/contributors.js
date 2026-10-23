@@ -50,7 +50,7 @@ export const CONTRIBUTORS = [
   {
     name: 'Harfi Alfaraby',
     github: 'harfialpharaby',
-    web: 'hopingharfi.com',
+    web: 'https://hopingharfi.com/',
     bio: 'Peserta Google Cloud Arcade 2026 yang bantu peningkatan UI/UX Arcade Hub.',
     tags: ['Frontend Engineer', 'UI/UX'],
   },
